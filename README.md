@@ -1,5 +1,5 @@
 # Panisara Wijarn
-- Toei
+-Toei
 ![profile](img/IMG_6065.jpeg)
 
 [Honeypots](honeypots.md)
