@@ -1,5 +1,5 @@
 # 6530200274 ปาณิสรา วิจารณ์
-# [6530200371 มนัสวี ปิยะโสภาสกุล](https://manatsawee-pi/vocabulary)
+# [6530200371 มนัสวี ปิยะโสภาสกุล](https://manatsawee-pi.github.io/honeypots)
 ## Honeypots/Honeynet
 - CISSP Glossary https://www.isc2.org/certifications/cissp/cissp-student-glossary
   - Machines that exist on the network, but do not contain sensitive or valuable data,
