@@ -1,6 +1,6 @@
 # Timeliness
 - **Definition:** Data timeliness is defined as the extent to which the data is up-to-date for its intended use. In other words, it refers to the “age” of the data, more specifically, the time between when an event happens and when it appears in the data sources you monitor.
-- **Source:** [https://www.adverity.com/blog/what-is-data-timeliness]
+- **Source:** [https://www.adverity.com/blog/what-is-data-timeliness](https://www.adverity.com/blog/what-is-data-timeliness)
 - **Meaning by ChatGPT:** ความทันท่วงทีของข้อมูล (Data Timeliness) หมายถึงระดับที่ข้อมูลมีความทันสมัยสำหรับการใช้งานตามวัตถุประสงค์ที่ตั้งไว้ หรือกล่าวอีกนัยหนึ่งคือหมายถึง “อายุ” ของข้อมูล โดยเฉพาะช่วงเวลาระหว่างที่เหตุการณ์เกิดขึ้นและเวลาที่ข้อมูลดังกล่าวปรากฏในแหล่งข้อมูลที่คุณติดตามตรวจสอบ
 - **Meaning by Gemini:** ความทันสมัยของข้อมูล หมายถึง ระดับความเป็นปัจจุบันของข้อมูลสำหรับการใช้งานที่ต้องการ กล่าวอีกนัยหนึ่ง หมายถึง "อายุ" ของข้อมูล โดยเฉพาะอย่างยิ่ง ช่วงเวลาที่เกิดเหตุการณ์และเวลาที่ปรากฏในแหล่งข้อมูลที่คุณตรวจสอบ
 - **My Summary:** ความตรงเวลาของข้อมูลนั้นหมายถึง "อายุ" ของข้อมูล และมีผลอย่างมากต่อความเร็วในการใช้ข้อมูลนั้นเอง และด้วยเหตุนี้ จึงสามารถได้รับข้อมูลเชิงลึกได้ นอกจากนี้ ความตรงเวลาของข้อมูลยังเชื่อมโยงอย่างลึกซึ้งกับแนวคิดที่กว้างขึ้นเกี่ยวกับคุณภาพของข้อมูล และจะต้องได้รับการประเมินควบคู่ไปกับการพิจารณาอื่นๆ เช่น การกำกับดูแลข้อมูล
