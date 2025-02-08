@@ -7,3 +7,5 @@
 # Data Quality: [timeliness](timeliness.md)
 # Boardgame: [boardgame](boardgame.md)
 # Security Control: [security-control](security-control.md)
+# Pao elections: [pao-elections](pao-elections.md)
+# Security Requirement: [security-requirement](security-requirement.md)
