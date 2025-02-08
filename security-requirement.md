@@ -6,7 +6,7 @@
   - Verify that the application does not log credentials or payment details. 
     Session tokens should only be stored in logs in an irreversible, hashed form.
 
-    
+
 - **ChatGPT:**
   - 7.1.1 Log Content เป็นส่วนหนึ่งของระบบบันทึกข้อมูล (Logging) ที่ใช้เก็บรายละเอียดของเหตุการณ์หรือกิจกรรมที่เกิดขึ้นภายในระบบคอมพิวเตอร์ แอปพลิเคชัน หรือเครือข่าย
   - องค์ประกอบของ Log Content
